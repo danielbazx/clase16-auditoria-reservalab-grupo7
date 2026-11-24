@@ -71,7 +71,8 @@ De acuerdo con **`§5.2 R9`** (*"No-Go: existe al menos un hallazgo P1 abierto"*
 #### Capturas de evidencia (W3C BAD)
 - **Versión inaccesible (`before`):** ![W3C BAD Before](evidencias/w3c_bad_before.png)
 - **Versión accesible (`after`):** ![W3C BAD After](evidencias/w3c_bad_after.png)
-- **Evidencia de finalización en plataforma (`Mi nota`):** ![Evidencia Mi nota](evidencias/evidencia_mi_nota_Gonzalo_Cardenas.png)
+- **Evidencia de finalización en plataforma — Daniel Cadena (`9.50 / 9.5`, `1MUJ1BH`):** ![Evidencia Mi nota Daniel Cadena](evidencias/evidencia_mi_nota_Daniel_Cadena.png)
+- **Evidencia de finalización en plataforma — Gonzalo Cárdenas (`9.50 / 9.5`, `FMXIP8M`):** ![Evidencia Mi nota Gonzalo Cárdenas](evidencias/evidencia_mi_nota_Gonzalo_Cardenas.png)
 
 #### Revisión de fragmentos de código de ReservaLab (`S1–S10`)
 
