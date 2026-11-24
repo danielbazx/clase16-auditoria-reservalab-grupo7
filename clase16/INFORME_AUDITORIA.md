@@ -67,7 +67,11 @@ De acuerdo con **`§5.2 R9`** (*"No-Go: existe al menos un hallazgo P1 abierto"*
 - **`B1.1` (`image-alt`):** Imágenes sin `alt` → SC `1.1.1` Nivel `A` (`T4`). Corrección: `alt` descriptivo en imágenes informativas y `alt=""` en decorativas.
 - **`B1.2` (`color-contrast`):** Contraste insuficiente → SC `1.4.3` Nivel `AA` (`T4`, `T5`, `F1`). Corrección: alcanzar `≥ 4.5:1` en texto normal y `≥ 3:1` en texto grande.
 - **`B1.3` (`html-has-lang`):** Falta atributo `lang` en `<html>` → SC `3.1.1` Nivel `A` (`T4`). Corrección: declarar `<html lang="en">` (o `"es"`).
-- *(Adjuntar capturas de axe DevTools y Lighthouse `before`/`after` en `clase16/evidencias/`.)*
+
+#### Capturas de evidencia (W3C BAD)
+- **Versión inaccesible (`before`):** ![W3C BAD Before](evidencias/w3c_bad_before.png)
+- **Versión accesible (`after`):** ![W3C BAD After](evidencias/w3c_bad_after.png)
+- **Evidencia de finalización en plataforma (`Mi nota`):** ![Evidencia Mi nota](evidencias/evidencia_mi_nota_Gonzalo_Cardenas.png)
 
 #### Revisión de fragmentos de código de ReservaLab (`S1–S10`)
 
